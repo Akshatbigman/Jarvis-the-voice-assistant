@@ -10,7 +10,7 @@ Voice-Assistant-Bear is a simple voice-activated assistant that responds to spec
 
 2. **Running the Voice Assistant**:
    - you can directly run the provided `.exe` file:
-     - Double-click on `VoiceAssistant.exe` to start the application.
+     - Double-click on `main.exe` to start the application.
 
 3. **Using the Voice Assistant**:
    - **Wake-Up Commands**: The assistant can be activated by saying "Hey Jarvis," "Hi Jarvis," or "OK Jarvis."
