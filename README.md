@@ -21,4 +21,4 @@ Voice-Assistant-Bear is a simple voice-activated assistant that responds to spec
 
 ## Demo
 
-[![Voice Assistant Demo](demo.gif)](https://www.youtube.com/watch?v=8zwemoZBC14)
+(https://www.youtube.com/watch?v=8zwemoZBC14)
